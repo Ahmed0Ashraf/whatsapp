@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "101747594483",
+    "firebase_url": "https://daredevil-45a7e.firebaseio.com",
+    "project_id": "daredevil-45a7e",
+    "storage_bucket": "daredevil-45a7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101747594483:android:cfb0f914719a146e",
+        "android_client_info": {
+          "package_name": "com.innovators.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101747594483-sokt0np5rifd5fo1n042pbcv1jpc1ft8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb_vp58SDCsX-3q7z6GNfnbQ3p5ys2CwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101747594483-sokt0np5rifd5fo1n042pbcv1jpc1ft8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
